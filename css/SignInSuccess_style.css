@@ -1,0 +1,70 @@
+.sign-in-successfully,
+.sign-in-successfully * {
+  box-sizing: border-box;
+}
+.sign-in-successfully {
+  background: #23fd00;
+  height: 651px;
+  position: relative;
+  overflow: hidden;
+}
+.twemoji-check-mark {
+  width: 112px;
+  height: 98px;
+  position: absolute;
+  left: 493px;
+  top: 242px;
+  overflow: hidden;
+}
+.ng-nh-p-th-nh-c-ng {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 435px;
+  top: 350px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.5);
+}
+.ellipse-4 {
+  background: #fcf8f8;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #17fc04;
+  border-width: 25px;
+  width: 202px;
+  height: 177px;
+  position: absolute;
+  left: 594px;
+  top: 123px;
+}
+.vector {
+  width: 7.71%;
+  height: 9.9%;
+  position: absolute;
+  right: 47.92%;
+  left: 44.38%;
+  bottom: 62.76%;
+  top: 27.34%;
+  overflow: visible;
+}
+.rectangle-41 {
+  background: #fc0000;
+  width: 240px;
+  height: 99px;
+  position: absolute;
+  left: 575px;
+  top: 452px;
+}
+.ok {
+  color: #fffcfc;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 659px;
+  top: 471px;
+  -webkit-text-stroke: 1px #fffafa;
+}
